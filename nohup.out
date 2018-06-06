@@ -1,0 +1,73 @@
+connectClient 1 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 2 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 3 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 4 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 5 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 6 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 7 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 8 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 9 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 10 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 11 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 12 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 13 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 14 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 15 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 16 close connection
+Swoole\Exception\ExitException:[0]:\n[2018-03-20 18:57:37 $27991.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-03-20 18:57:37 *27995.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-03-20 18:57:37 #27990.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-03-20 18:57:37 *28000.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-03-20 18:57:37 *27999.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-03-20 18:57:37 *27998.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-03-20 18:57:37 *27997.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-03-20 18:57:37 *27996.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-03-20 18:57:37 *28001.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-03-20 18:57:37 *27994.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+connectClient 17 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 18 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 19 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 20 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 21 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 22 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 23 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 24 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 25 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 26 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 27 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 28 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 29 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 30 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 31 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 32 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 33 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 34 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 35 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 36 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 37 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 38 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 39 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 40 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 41 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 42 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 43 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 44 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 45 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 46 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 47 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 48 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 49 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 50 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 51 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 52 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 53 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 54 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 55 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 56 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 57 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 58 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 59 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 60 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 61 close connection
+Swoole\Exception\ExitException:[0]:\nconnectClient 62 close connection
+Swoole\Exception\ExitException:[0]:\n
